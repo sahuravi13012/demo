@@ -1,4 +1,4 @@
-var number = 5;
+var number = 8;
 
 switch (number) {
   case 1:
@@ -8,11 +8,11 @@ switch (number) {
     console.log("Two");
     break;
   case 3:
-    console.log("Three"); 
+    console.log("Three");
     break;
   case 4:
     console.log("Four");
-    break; 
+    break;
   case 5:
     console.log("Five");
     break;
